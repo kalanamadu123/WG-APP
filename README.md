@@ -1,4 +1,5 @@
-# wga
+# Wallpaper Gallery App With Changing bacground image fuctionalities.
+
 
 
 This project is a starting point for a Flutter application.
