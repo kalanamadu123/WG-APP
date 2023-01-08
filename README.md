@@ -1,4 +1,4 @@
-# Wallpaper Gallery App With Changing bacground image fuctionalities.
+# Wallpaper Gallery App
 
 
 
